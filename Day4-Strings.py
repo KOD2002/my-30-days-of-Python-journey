@@ -58,9 +58,9 @@ print('I am {} {}.'.format(first_name, last_name))
 # Accessing Characters in Strings by Index. Characters in a string are numbered from 0. You can print each character using variable_name[n]
 # where n is the index of the character
 # An example is
-# language = 'Python'
-# first_letter = language[0]
-# print(first_letter)
+language = 'Python'
+first_letter = language[0]
+print(first_letter)
 
 # You can also slice strings when printing by using variable_name[n1:n2]
 # Reversing the string is done by [::-1]
